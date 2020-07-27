@@ -1,5 +1,5 @@
 
-# Building an Image Classification project with CIFAR 10 Dataset 
+# Building an Image Classification project with CIFAR 10 Dataset [90% Accuracy]
 
 "Link for Project" : (https://colab.research.google.com/drive/1H6-eSa2fYi6aY_6mgFJvwG6jz1sNdk25?usp=sharing)
 
